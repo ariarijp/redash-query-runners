@@ -4,7 +4,7 @@ Unofficial Query Runners for Redash.
 
 ## License
 
-MIT
+BSD 2-Clause
 
 ## Author
 
